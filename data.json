@@ -1,0 +1,126 @@
+{
+  "profile": {
+    "name": "Mahmoud Abdellah",
+    "handle": "mahmoudabdellah09",
+    "title": "Data Science Junior & High School Student",
+    "tagline": "Building tools that make sense, one line of code at a time.",
+    "location": "Egypt",
+    "email": "moodyabdellah1@gmail.com",
+    "github": "https://github.com/mahmoudabdellah09",
+    "linkedin": "https://linkedin.com/in/yourhandle"
+  },
+  "techStack": [
+    {
+      "name": "HTML",
+      "dot": true
+    },
+    {
+      "name": "CSS",
+      "dot": true
+    },
+    {
+      "name": "Python",
+      "dot": true
+    },
+    {
+      "name": "Data Analysis",
+      "dot": false
+    },
+    {
+      "name": "Pandas",
+      "dot": false
+    },
+    {
+      "name": "NumPy",
+      "dot": false
+    },
+    {
+      "name": "Adobe Photoshop",
+      "dot": false
+    },
+    {
+      "name": "Video Editing",
+      "dot": false
+    },
+    {
+      "name": "Excel",
+      "dot": false
+    },
+    {
+      "name": "Git",
+      "dot": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "forge-gym-progress",
+      "description": "A gym progress tracking page built with HTML. Log your workouts, track progress over time, and keep a clean record of your training \u2014 designed as a straightforward tool for anyone who wants to see how they're improving.",
+      "language": "HTML",
+      "repoUrl": "https://github.com/mahmoudabdellah09/forge-gym-progress",
+      "liveUrl": "",
+      "tags": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "WeRateDogs Data Analysis",
+      "description": "Collected, cleaned, and analyzed real-world datasets using Python. Built reports and visualizations with Pandas and NumPy \u2014 a hands-on deep dive into data wrangling and telling stories with numbers.",
+      "language": "Python",
+      "repoUrl": "#",
+      "liveUrl": "#",
+      "tags": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Your next project",
+      "description": "Replace this card with your next real project. Lead with what it does and why it exists \u2014 a sentence or two is enough.",
+      "language": "-",
+      "repoUrl": "#",
+      "liveUrl": "#",
+      "tags": [
+        "TBD"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Digital Egypt Cubs Initiative \u2014 Data Analysis Track",
+      "organization": "Digital Egypt Cubs Initiative",
+      "date": "2026"
+    },
+    {
+      "name": "Your certificate name",
+      "organization": "Issuing organization",
+      "date": "2025"
+    },
+    {
+      "name": "Your certificate name",
+      "organization": "Issuing organization",
+      "date": "2024"
+    }
+  ],
+  "achievements": [
+    "Winner \u2014 Governorate-Level Photoshop Competition",
+    "Participant in technology and IT competitions",
+    "Member \u2014 Digital Egypt Cubs Initiative (Data Analysis Track)"
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Good"
+    },
+    {
+      "name": "German",
+      "level": "Basic"
+    }
+  ]
+}
